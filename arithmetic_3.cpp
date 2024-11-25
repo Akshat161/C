@@ -115,10 +115,9 @@ int main()
 }
 
 
-// echo "# C-" >> README.md
 // git init
 // git add README.md
 // git commit -m "first commit"
 // git branch -M main
-// git remote add origin https://github.com/Akshat161/C-.git
+// git remote add origin https://github.com/pran420/C.git
 // git push -u origin main
